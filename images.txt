@@ -1,3 +1,4 @@
 php:7.4-apache
 python:3.6
 python:3.10.12-slim-bullseye
+web_php73_apache_mysql
