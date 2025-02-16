@@ -1,2 +1,1 @@
-dasctfbase/web_php73_apache_mysql
-ubuntu:20.04
+php:7.3-apache
